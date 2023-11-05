@@ -5,8 +5,8 @@ This repository contains code and data for a data science project to classify Ir
 
 The project follows the following steps to classify Iris flowers using data science:
 
-#1.Data preprocessing: The data is cleaned and prepared for modeling by handling missing values, outliers, and categorical variables.
-#2.Exploratory data analysis (EDA): EDA is performed to understand the data and identify patterns and relationships between the features.
+1.Data preprocessing: The data is cleaned and prepared for modeling by handling missing values, outliers, and categorical variables.
+2.Exploratory data analysis (EDA): EDA is performed to understand the data and identify patterns and relationships between the features.
 3.Feature engineering: New features are created or existing features are transformed to improve the performance of the machine learning models.
 4.Model training and evaluation: A variety of machine learning models are trained on the preprocessed data and evaluated on a held-out test set to select the best model.
 5.Model deployment: The best model is deployed to production so that it can be used to predict the species of new Iris flowers.
